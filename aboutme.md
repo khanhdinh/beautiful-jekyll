@@ -4,11 +4,10 @@ title: About me
 subtitle: Democratize data via interactive visualization
 ---
 
-My name is Khanh Dinh. This is what I like:
-
-- Beer
-- Coffee
-- Data visualization
+## My name is Khanh Dinh. This is what I like:
+* Beer
+* Coffee
+* Data visualization
 
 What else do you need?
 
