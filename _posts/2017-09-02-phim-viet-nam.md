@@ -2,7 +2,7 @@
 layout: post
 title: Phim
 subtitle: Phim Việt Nam và các mối liên hệ
-image: /img/hvtcx-top-bg.jpg
+[comment]: <> image: /img/hvtcx-top-bg.jpg
 bigimg: /img/hvtcx-top-bg.jpg
 ---
 
